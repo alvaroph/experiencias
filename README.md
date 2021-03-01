@@ -1,4 +1,6 @@
-# experiencias
+# Proyecto Experiencias
+
+Trataremos de reproducir el proyecto de Mis Viajes con VUE + una API ya montada.
 
 ## Project setup
 ```
