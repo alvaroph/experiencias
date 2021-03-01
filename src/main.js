@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
-
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 
