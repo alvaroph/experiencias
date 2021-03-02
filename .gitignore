@@ -3116,3 +3116,4 @@ node_modules/.staging/yorkie-9c67b345/src/utils/find-hooks-dir.js
 node_modules/.staging/yorkie-9c67b345/src/utils/find-parent.js
 node_modules/.staging/yorkie-9c67b345/src/utils/get-hook-script.js
 node_modules/.staging/yorkie-9c67b345/src/utils/is.js
+node_modules
